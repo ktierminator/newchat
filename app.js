@@ -6,6 +6,7 @@
  * 1. Go to Firebase Console -> Project Settings -> General
  * 2. Scroll down to "Your apps" and copy the config object.
  */
+
 // For Firebase JS SDK v7.20.0 and later, measurementId is optional
 const firebaseConfig = {
   apiKey: "AIzaSyAocy6Jpx0rbzL47vWMn4R1RlZYxWeuc_c",
@@ -13,8 +14,8 @@ const firebaseConfig = {
   projectId: "chatroom-928c2",
   storageBucket: "chatroom-928c2.firebasestorage.app",
   messagingSenderId: "98082615156",
-  appId: "1:98082615156:web:278129c34031be24604621",
-  measurementId: "G-231X9JBY9P"
+  appId: "1:98082615156:web:2dc194b659a6aa00604621",
+  measurementId: "G-SYW8VSGXNP"
 };
 
 import { initializeApp } from "https://www.gstatic.com/firebasejs/10.8.1/firebase-app.js";
